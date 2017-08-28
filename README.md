@@ -1,5 +1,5 @@
-# .vimrc
-my preferences for vim: use vundle for packages, vim-airline, rainbow parens
+# .vim
+my .vim folder with my prefs: use vundle for packages, vim-airline, rainbow parens
 
 ## setup
 ```
