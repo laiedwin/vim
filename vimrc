@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugins
 Plugin 'vim-airline/vim-airline'
 Plugin 'junegunn/rainbow_parentheses.vim'
+Plugin 'ntpeters/vim-better-whitespace'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
